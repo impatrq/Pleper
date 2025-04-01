@@ -50,8 +50,6 @@
   - Diseño de placa en AutoCad
   - Simulaciones en software de circuitos
 
-## ¿En qué trabajamos?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 
 ## Integrantes:
 <div align="center">
