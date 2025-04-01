@@ -72,7 +72,7 @@ lopachon
 ### Santiago Alejandro Tejeda
 lopachon
 
-- 📧 lopachon@gmail.com
+- 📧 santiagotejeda36@gmail.com
 
 - LinkedIn: [Santiago Alejandro Tejeda](http://www.linkedin.com/in/lopachon/)
 
