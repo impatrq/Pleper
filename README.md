@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este proyecto busca demostrar la viabilidad de la energía piezoeléctrica, aunque el prototipo inicial se centra en aplicaciones pequeñas, la tecnología podría escalarse para aprovechar el tráfico peatonal y vehicular en entornos urbanos.
 
 ## 💡 ¿Qué aporta a la sociedad?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El mayor impacto que busca generar nuestro proyecto es el de incorporar, de manera inocua, métodos de generación de energía renovables al día a día de las personas, interactúando con la generación de energía y siend a su vez más conscientes de las problematicas ambientales que conllevan los métodos tradiconales de generación de energía. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El mayor impacto que busca generar nuestro proyecto es el de incorporar, de manera inocua, métodos de generación de energía renovables al día a día de las personas, interactúando con la generación de energía y siendo a su vez más conscientes de las problematicas ambientales que conllevan los métodos tradiconales de generación de energía. <br>
 
 
 ## 🔧 Características Principales
@@ -41,7 +41,7 @@
 ## 🛠️ Tecnología Utilizada
 
 - **Componentes Principales**:
-  - Buzzer cerámico piezoeléctrico
+  - Sensor piezoeléctrico
   - Circuito rectificador
   - Almacenamiento en condensadores
   - Microcontrolador para medición de energía generada
