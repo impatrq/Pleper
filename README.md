@@ -1,9 +1,10 @@
 <div align="center">
 
 
-
 # Proyecto PLEPER
 ## Placa de Energía Piezoeléctrica Renovable 
+<img src="logo.jpg">
+
 
 
 | Página web | Email | Instagram |
@@ -12,7 +13,6 @@
 
 </div>
 
-# Proyecto de Energía Piezoeléctrica
 
 ## ⚡ Energía en cada paso.
 
