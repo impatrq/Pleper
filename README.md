@@ -5,13 +5,12 @@
 ## Placa de Energía Piezoeléctrica Renovable 
 <img src="logo.jpg">
 
-
-
-| Página web | Email | Instagram |
+| <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/internet.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />|
 |------------|-------|-----------|
 |[Página Web](https://cat-bounce.com/)|pleper.infoimpa@gmail.com|[@pleper_25](https://www.instagram.com/pleper_25/?igsh=Y2xkMGg4Z2V1NHdl#)|
 
 </div>
+
 
 
 ## ⚡ Energía en cada paso.
