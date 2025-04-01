@@ -58,50 +58,98 @@
 
 ### Victoria Josefina Baza
 
-- 📷 Instagram: [@lavicky_victoria](https://www.instagram.com/lavicky_victoria/)
+<a href="https://mail.google.com/mail/?view=cm&to=victoriajosefinabaza@gmail.com" target="_blank">
+  <img align="left" alt="Victoria's Gmail" src="https://img.shields.io/badge/Gmail-%20victoriajosefinabaza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/victoriajbaza/">
+  <img align="left" alt="Victoria's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/VickyyyBaza">
+  <img align="left" alt="Victoria's GitHub" width="100px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/lavicky_victoria/">
+  <img align="left" alt="Victoria's Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 📧 victoriajosefinabaza@gmail.com
 
-- LinkedIn: [Victoria J Baza](http://www.linkedin.com/in/victoriajbaza/)
+
+<br><br>
+
+
 
 ### Mauricio Blasco
+<a href="https://mail.google.com/mail/?view=cm&to=sirmauriciob@gmail.com" target="_blank">
+  <img align="left" alt="Mauricio's Gmail" src="https://img.shields.io/badge/Gmail-%20sirmauriciob@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/mauriciobl/">
+  <img align="left" alt="Mauricio's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/MauricioBlasco">
+  <img align="left" alt="Mauricio's GitHub" width="100px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/maauricio.bl/">
+  <img align="left" alt="Mauricio's Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 📷 Instagram: [@maauricio.bl](https://www.instagram.com/maauricio.bl/)
-
-- 📧 sirmauriciob@gmail.com
-
-- LinkedIn: [Mauricio Blasco](https://www.linkedin.com/in/mauriciobl/)
+<br><br>
 
 ### Víctor Raúl Broncano Ramos
+<a href="https://mail.google.com/mail/?view=cm&to=raul455896@gmail.com" target="_blank">
+  <img align="left" alt="Raul's Gmail" src="https://img.shields.io/badge/Gmail-%20raul455896@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/raul-broncano-3734a0357/">
+  <img align="left" alt="Raul's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/raul_broncano/">
+  <img align="left" alt="Raul's Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 📷 Instagram: [@raul_broncano](https://www.instagram.com/raul_broncano/)
 
-- 📧 raul455896@gmail.com
-
-- LinkedIn: [Victor Raúl Broncano Ramos](https://www.linkedin.com/in/raul-broncano-3734a0357/)
+<br><br>
 
 ### Ignacio García Louzan
-
-- 📷 Instagram: [@ignacio_1907](https://www.instagram.com/ignacio_1907/)
-
-- 📧 nachogarcialouzan@gmail.com
-
-- LinkedIn: [Ignacio García Louzan](https://www.linkedin.com/in/ignacio-garc%C3%ADa-louzan/)
+<a href="https://mail.google.com/mail/?view=cm&to=nachogarcialouzan@gmail.com" target="_blank">
+  <img align="left" alt="Ignacio's Gmail" src="https://img.shields.io/badge/Gmail-%20nachogarcialouzan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/ignacio-garc%C3%ADa-louzan/">
+  <img align="left" alt="Ignacio's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Nacho777890">
+  <img align="left" alt="Ignacio's GitHub" width="100px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/ignacio_1907/">
+  <img align="left" alt="Ignacio's Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br><br>
 
 ### Isidro Joaquín Stabile
 
-- 📧 isidrost@hotmail.com
+<a href="https://mail.google.com/mail/?view=cm&to=isidrost@hotmail.com" target="_blank">
+  <img align="left" alt="Isidro's Gmail" src="https://img.shields.io/badge/Gmail-%20isidrost@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/isidro-stabile-4104a0357/">
+  <img align="left" alt="Isidro's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Isidrost">
+  <img align="left" alt="Isidro's GitHub" width="100px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- LinkedIn: [Isidro Joaquín Stabile](https://www.linkedin.com/in/isidro-stabile-4104a0357/)
-
-
+<br><br>
 ### Santiago Alejandro Tejeda
+<a href="https://mail.google.com/mail/?view=cm&to=santiagotejeda36@gmail.com" target="_blank">
+  <img align="left" alt="Santiago's Gmail" src="https://img.shields.io/badge/Gmail-%20santiagotejeda36@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=white" />
+</a>
+<a href="https://www.linkedin.com/in/santiago-tejeda/">
+  <img align="left" alt="Santiago's LinkedIn" width="90px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/santiagoatejeda">
+  <img align="left" alt="Santiago's GitHub" width="100px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/santiago.teje/">
+  <img align="left" alt="Santiago's Instagram" width="115px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-- 📷 Instagram: [@santiago.teje](https://www.instagram.com/santiago.teje/)
-  
-- 📧 santiagotejeda36@gmail.com
-
-- LinkedIn: [Santiago Alejandro Tejeda](https://www.linkedin.com/in/santiago-tejeda/)
+<br><br>
 
 ## Contactanos
 
