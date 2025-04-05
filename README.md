@@ -3,7 +3,7 @@
 
 # Proyecto PLEPER
 ## Placa de Energía Piezoeléctrica Renovable 
-<img src="Logo.jpg">
+<img src="Logo.png">
 
 | <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/internet.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />|
 |------------|-------|-----------|
