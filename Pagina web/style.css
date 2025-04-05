@@ -1,0 +1,42 @@
+body {
+    background-image: url(img/fondo.jpg); /* Reemplaza con la ruta de tu imagen */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white; /* Color del texto para mayor visibilidad */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.contenedor-texto {
+    background: rgba(0, 0, 0, 0.6); /* Fondo semitransparente para mejorar la legibilidad */
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20%;
+}
+
+a {
+    color: blanchedalmond;
+}
+
+
+a:visited {
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: black; /* Fondo negro */
+    color: white; /* Texto blanco */
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px; /* Espacio entre el contenido y el footer */
+}
+footer a {
+    color:white; /* Links en color dorado */
+    text-decoration: underline;
+}
+footer a:hover {
+    text-decoration: underline;
+}
