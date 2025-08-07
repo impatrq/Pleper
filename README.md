@@ -154,6 +154,6 @@
 
 ### Instagram: [@pleper_25](https://www.instagram.com/pleper_25/)
 
-### Pagina web: [Visitanos!]https://pleper-impa.github.io/web/
+### Pagina web: [Visitanos!](https://pleper-impa.github.io/web/)
 
 ### Mail: pleper.infoimpa@gmail.com
