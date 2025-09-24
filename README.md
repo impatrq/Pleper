@@ -7,7 +7,7 @@
 
 | <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/internet.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />|
 |------------|-------|-----------|
-|[Página Web](https://political-brave-parakeet.glitch.me/)|pleper.infoimpa@gmail.com|[@pleper_25](https://www.instagram.com/pleper_25/?igsh=Y2xkMGg4Z2V1NHdl#)|
+|[Página Web](https://pleper-impa.github.io/web/index.html)|pleper.infoimpa@gmail.com|[@pleper_25](https://www.instagram.com/pleper_25/?igsh=Y2xkMGg4Z2V1NHdl#)|
 
 </div>
 
@@ -154,6 +154,6 @@
 
 ### Instagram: [@pleper_25](https://www.instagram.com/pleper_25/)
 
-### Pagina web: [Visitanos!](https://pleper-impa.github.io/web/)
+### Pagina web: [Visitanos!](https://pleper-impa.github.io/web/index.html)
 
 ### Mail: pleper.infoimpa@gmail.com
