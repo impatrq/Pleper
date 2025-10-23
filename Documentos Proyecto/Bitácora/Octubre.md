@@ -3,14 +3,14 @@
 ## 📅 1️⃣ Semana (Lunes 29 - Viernes 3)
 
 
--  Santiago Tejeda: 
+-  Santiago Tejeda: esta semana me dediqué a corroborar por qué los pulsos de la baldosa no llegaban a cargar el banco de capacitores, dentro de todas las razones una de las que me cuestioné era la falta de un capacitor de filtrado en la salida de la placa reciticadora, siendo esta conectada en paralelo, pero luego de probarlo la baldosa dejó de dar tensión a la salida. Lo que terminó en tener que desoldarlo y optar por otras alternativas.
 
 ---
 
 ## 📅 2️⃣ Semana (Lunes 6 - Viernes 10)
 
 
--  
+-  Santiago Tejeda: esta semana me dediqué a buscar el motivo por el cuál el banco no cargaba. Llegué a la conclución de que la constante de tiempo del capacitor de almacenamiento principal (10,000µF) excede en dos órdenes de magnitud la duración del pulso piezoeléctrico (20ms), resultando en una eficiencia de captura menor al 5%. Para resolver esto, se implementó un sistema de dos etapas capacitivas con un capacitor de acoplamiento (470µF) que presenta una constante de tiempo compatible con la duración del pulso. Denominandola "circuito de bombeo de carga capacitiva".
 
 ---
 
