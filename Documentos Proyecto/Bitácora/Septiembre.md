@@ -1,27 +1,27 @@
-# 🗓️ Bitácora - Agosto 2025
+# 🗓️ Bitácora - Septiembre 2025
 
-## 📅 1️⃣ Semana (Lunes 4 - Viernes 8)
-
-
--  Santiago Tejeda: 
-
----
-
-## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
+## 📅 1️⃣ Semana (Lunes 1 - Viernes 5)
 
 
 -  
 
 ---
 
-## 📅 3️⃣ Semana (Lunes 18 - Viernes 22)
+## 📅 2️⃣ Semana (Lunes 8 - Viernes 12)
 
 
 -  
 
 ---
 
-## 📅 4️⃣ Semana (Lunes 25 - Viernes 29)
+## 📅 3️⃣ Semana (Lunes 15 - Viernes 19)
+
+
+-  
+
+---
+
+## 📅 4️⃣ Semana (Lunes 22 - Viernes 26)
 
  
 -  
