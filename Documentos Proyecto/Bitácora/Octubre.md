@@ -7,7 +7,7 @@
 
 ---
 
-## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
+## 📅 2️⃣ Semana (Lunes 6 - Viernes 10)
 
 
 -  
