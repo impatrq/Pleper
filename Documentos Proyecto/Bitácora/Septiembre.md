@@ -21,8 +21,7 @@
 
 ## 📅 4️⃣ Semana (Lunes 22 - Viernes 26)
 
- 
--  
+-  Mauricio Blasco: Coloque los topes de goma en los piezoeléctricos ya soldados, también me contacte con Autogomas Para recibir como ayuda una alfombra antideslizante, la cual fui a retirar y posteriormente la medimos, lijamos y recortamos para colocarla sobre la baldosa. Por ultimo diseñe el banner del proyecto, el cual enviamos.
 
 ---
 
