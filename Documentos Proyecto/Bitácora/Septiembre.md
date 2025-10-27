@@ -14,7 +14,7 @@
 
 ## 📅 3️⃣ Semana (Lunes 15 - Viernes 19)
 
--  Mauricio Blasco: Esta semana me encargue principalmente de diseñar el esquemático y pcb de la placa rectificadora, la cual imprimimos, planchamos, pusimos en acido, lijamos y agujereamos. Además de esto soldamos los componentes al banco de capacitores y fuimos al local de zona electo para comunicarnos en busca de apoyo.
+-  Mauricio Blasco: fuimos al local de zona electo para comunicarnos en busca de apoyo. También realice el diseño en pcb y el esquemático de la placa de capacitores, el cual imprimimos posteriormente. Hicimos una recorrida por el centro en la búsqueda de sponsors, además de comprar placa de cobre.
 
 ---
 
