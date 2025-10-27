@@ -11,7 +11,7 @@
 
 
 -  Santiago Tejeda: esta semana me dediqué a buscar el motivo por el cuál el banco de capacitores no cargaba. Llegué a la conclusión de que la constante de tiempo del capacitor de almacenamiento principal (10,000µF) excede en dos órdenes de magnitud la duración del pulso piezoeléctrico (20ms), resultando en una eficiencia de captura menor al 5%. Para resolver esto, se implementó un sistema de dos etapas capacitivas con un capacitor de acoplamiento (470µF) que presenta una constante de tiempo compatible con la duración del pulso. Denominandola "circuito de bombeo de carga capacitiva".
-
+-  Mauricio Blasco: Esta semana complete el borde de caucho que cubre los costados de la baldosa, además de hacer un corte para que pasen los cables e intentar pegar con cemento de contacto la alfombra antideslizante a la baldosa, lo cual fracasamos ya que estaba ya seco el cemento de contacto, por lo que la despegamos.
 ---
 
 ## 📅 3️⃣ Semana (Lunes 13 - Viernes 17)
