@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Animación luz ramificada</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/MotionPathPlugin.min.js"></script>
+  <style>
+    body { background: #222; margin: 0; overflow: hidden; }
+    svg { width: 100%; height: 100vh; }
+    .nodo { fill: white; stroke: black; stroke-width: 2; }
+
+    .luz {
+      fill: lime;
+      filter: url(#glow);
+    }
+    .imagen {
+      filter: drop-shadow(0 0 0 limegreen);
+      transition: filter 0.3s ease;
+    }
+    .imagen.iluminada {
+      filter: drop-shadow(0 0 20px limegreen);
+    }
+  </style>
+</head>
+<body>
+
+<svg viewBox="0 0 800 600">
+  <!-- Definición de filtros -->
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowRayo" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowFuerte" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Placa -->
+  <rect id="placa" x="50" y="250" width="80" height="50" fill="gray" rx="10"/>
+
+  <!-- Líneas -->
+  <path id="linea1" d="M130 275 L250 275" stroke="green" fill="none" stroke-width="4"/>
+  <path id="lineaOp" d="M250 275 L500 275" stroke="green" fill="none" stroke-width="4"/>
+
+  <!-- Imagen de la opción -->
+  <image id="opcion" href="opcion.png" x="500" y="225" width="100" height="100" class="imagen"/>
+
+  <!-- Imagen del rayo (AL FINAL para que quede encima de las líneas) -->
+  <image id="rayo" href="rayito.png" x="240" y="230" width="40" height="40" class="imagen"/>
+</svg>
+
+<script>
+  gsap.registerPlugin(MotionPathPlugin);
+  const svg = document.querySelector("svg");
+  const rayo = document.getElementById("rayo");
+
+  function crearLuz() {
+    const luz = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    luz.setAttribute("class", "luz");
+    luz.setAttribute("r", 8);
+    svg.appendChild(luz);
+    return luz;
+  }
+
+  function iluminarElemento(elemento) {
+    elemento.classList.add("iluminada");
+    setTimeout(() => {
+      elemento.classList.remove("iluminada");
+    }, 500);
+  }
+
+  function animar() {
+    const timeline = gsap.timeline();
+
+    // Luz inicial hasta el rayo
+    const luzInicial = crearLuz();
+    timeline.to(luzInicial, {
+      duration: 1,
+      motionPath: { path: "#linea1", align: "#linea1" },
+      onComplete: () => {
+        luzInicial.remove();
+        iluminarElemento(rayo); // iluminar al llegar
+      }
+    });
+
+    // Luz desde el rayo hasta la opción
+    timeline.add(() => {
+      const nuevaLuz = crearLuz();
+      gsap.to(nuevaLuz, {
+        duration: 0.8, // rápida desde el rayo a la opción
+        motionPath: { path: "#lineaOp", align: "#lineaOp" },
+        onComplete: () => {
+          nuevaLuz.remove();
+          iluminarElemento(document.getElementById("opcion")); // iluminar la opción
+        }
+      });
+    }, 1.5); // empieza después de iluminar el rayo
+  }
+
+  document.getElementById("placa").addEventListener("click", animar);
+</script>
+
+</body>
+</html>
