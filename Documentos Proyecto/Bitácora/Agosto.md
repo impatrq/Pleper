@@ -3,14 +3,14 @@
 ## 📅 1️⃣ Semana (Lunes 4 - Viernes 8)
 
 
--  Santiago Tejeda: 
+-  Santiago Tejeda: Esta semana me encargué de investigar qué método de almacenamiento iba a ser el más adecuado para almacenar los pulsos generados por la baldosa. Primero pensamos en utilizar baterías de litio pero no tenía mucho sentido utilizar una batería de litio para cargar otra batería de litio así que seguimos investigando.
 
 ---
 
 ## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
 
 
--  
+-  Santiago Tejeda: 
 
 ---
 
