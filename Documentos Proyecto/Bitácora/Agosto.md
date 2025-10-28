@@ -24,7 +24,8 @@
 ## 📅 4️⃣ Semana (Lunes 25 - Viernes 29)
 
  
--  
+-  Santiago Tejeda: Investigué los valores posibles para el banco de capacitores, ya que tenia que estar dentro del presupuesto y tenía que ser de óptimo funcionamiento, así gracias al pañol de aviónica que nos brindó 4 capacitores de 10.000 uF pudé crear la placa de almacenamiento, que serían los 4 capacitores en paralelo con 2 borneras, una de entrada y otra de salida.
+
 ---
 
 🧾 **Observaciones generales del mes:**  
