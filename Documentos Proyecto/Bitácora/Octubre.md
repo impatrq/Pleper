@@ -19,6 +19,7 @@
 
 -  Santiago Tejeda: esta semana me dediqué a desoldar los pines macho-macho de la Raspberry Pico W, que estaban soldados al revés, aprovechando que teníamos las prácticas profesionlizantes en Newton SRL, nos brindaron uso de su equipo de microscopios y capacitación para soldar/desoldar estaño de la forma correcta, que me facilitó la operación. Luego empecé a investigar sobre los componentes para el prototipado del nuevo circuito de retroalimentación de bombeo de carga capacitiva.
 -  Mauricio Blasco: Esta semana me encargue de medir la tensión tanto en la salida del circuito como en la salida de los grupos de piezoeléctricos, midiendo con uno, dos, tres y cuatro topes en un grupo y con un tope en cada esquina.
+-  Ignacio Garcia: Esta semana empece con el codigo del proyecto. El mismo se encargaria de mostrar el porcentaje de carga del capacitor en un display LCD (con i2c incluido) y, ademas, mediante el uso de una pgina web las personas podrian ver en sus dispositivos como se carga en tiempo real el capacitor. La idea de esta semana es probar la parte del codigo para el display con el lenguaje de programacion Python.
 ---
 
 ## 📅 4️⃣ Semana (Lunes 20 - Viernes 24)
