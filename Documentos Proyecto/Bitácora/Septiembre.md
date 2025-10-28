@@ -25,7 +25,7 @@ Con la ayuda de los resortes y los pilares logré este objetivo: los resortes se
 ## 📅 4️⃣ Semana (Lunes 22 - Viernes 26)
 
  
--  
+-  Santiago Tejeda: Esta semana me encargué específicamente del armado de los piezoeléctricos en la baldosa, ubicándolos junto a unas tarimas de caucho que habían sobrado. Además, realicé el pegado de los mismos a la estructura y su correspondiente cableado de forma prolija con silicona, para luego conectarlos en las borneras de la placa rectificadora.
 
 ---
 
