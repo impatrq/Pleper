@@ -23,7 +23,7 @@
 
 -  Santiago Tejeda: El método que optamos por elegir fue el de fabricar un banco de capacitores que me permita almacenar los pulso de los piezoelectricos, por lo que me dediqué a investigar los valores posibles de capacitancia que iba a necesitar para armarlo, ya que primero pesamos en usar un supercapacior de 1 Faradio pero estos mismos son muy costosos y llegué a la conclusión de que podía usar uno de menor valor.
 
--  Siguiente pleperino:
+- Isidro Stabile: Esta semana comenze con el armado y corte de unos "tacones" o bases para los discos piezoelectricos, que sirven para que llegen a deformarse cuando hay pisadas.
 
 ---
 
