@@ -40,7 +40,7 @@
 
 -  Isidro Stabile: Esta semana perfeccione los contornos del caucho, y los agujeros para que puedan pasar mejor los topes impresos en 3D.
 
-- Victor Raul Broncano: Lijado de los costados de la baldosa de caucho y mediciones  en el caucho y la baldosa de madera para realizar realizar los agujeros donde van a pasar los topes
+- Victor Raul Broncano: Lijado de los costados de la baldosa de caucho y de la baldosa de madera. Tambien realice mediciones para realizar las perforaciones en donde van a ir los topes en donde van a ir los resorte y mantiene las badosas alinenadas con la base de madera.
 
 ---
 
