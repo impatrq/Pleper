@@ -29,7 +29,7 @@
 
 - Isidro Stabile: Esta semana comenze con el armado y corte de unos "tacones" o bases para los discos piezoelectricos, que sirven para que llegen a deformarse cuando hay pisadas.
 
-- Victor Raul Broncano: Medidas para la colocacion y corte de las bases de cauchos para los sensores piezoelectricos. Estos permiten que los sensores sean presionados por la placa al pisarla
+- Victor Raul Broncano: Medidas para la colocacion y corte de las bases de cauchos para los sensores piezoelectricos. Estos permiten que, cuando una persona pise la placa, los sensores lleguen a tener contacto con la baldosa.
 
 ---
 
