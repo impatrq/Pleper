@@ -7,7 +7,7 @@
 
 -  Isidro Stabile: Esta semana hice mediciones y corte la placa de caucho que compramos para avanzar con la estrucutura.
 
--  Victor Raul Broncano: Medidas y recorte del caucho que va a ser la baldosa
+-  Victor Raul Broncano: Medidas y recorte del caucho que va a ser la baldosa. Esta baldosa la recotamos a una medida de 42cm*42cm ya que va a ir junto a una madera de la misma medida.
 
 ---
 
