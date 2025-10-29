@@ -43,6 +43,9 @@
 -  Mauricio Blasco: Esta semana me encargue de medir el tiempo de los pulsos generado por los piezoeléctricos con el objetivo de saber si el problema de la carga de los capacitores podría ser por la corta duración de estos, lo cual terminamos confirmando. También me encargue de comprar algunos componentes que requeríamos para seguir avanzando, los cuales eran 2 resistencias de 4,7 Mohm y dos tiras de 40 pines. Tambien medí la corriente en la salida del circuito tanto sin topes como con uno, dos, tres y cuatro topes. Por ultimo actualize con algunas mejoras el banner del proyecto para luego enviarlo.
 
 -  Ignacio Garcia: Esta semana, como comente anteriormente, continue con el codigo pero ahora con el uso de la extension de VScode conocida como Platformio. Probe de la misma manera que con Python (primero hacer que funcione la parte del codigo del display) pero otra vez no tuve exito debido a que Platformio no funcionaba con Raspberrys pi picos Wifi (solo con raspberry pi pico y ahi). Es por eso que pase el codigo a C (mediante una extension de raspberry pi pico en VScode) y ahi empezo a funcionar. Ahora faltaria hacer la parte web del codigo.
+
+- Victor Raul Broncano: Compra y lijado de grampas para mantener el fijo verticalmente el tubo de PVC. En este tubo van a pasar los cables que iran dirigido a la caja de placas. Tambien repare las conexiones desoldadas de los sensores piezoelectricos
+
 ---
 
 🧾 **Observaciones generales del mes:**  
