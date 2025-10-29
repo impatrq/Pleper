@@ -7,6 +7,8 @@
 
 -  Isidro Stabile: Esta semana hice mediciones y corte la placa de caucho que compramos para avanzar con la estrucutura.
 
+-  Victor Raul Broncano: Medidas y recorte del caucho que va a ser la baldosa
+
 ---
 
 ## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
