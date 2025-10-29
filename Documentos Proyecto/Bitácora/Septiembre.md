@@ -5,16 +5,15 @@
 
 -  Santiag Tejeda: Esta semana me encargué de armar un boceto a modo de guía en formato de diagrama en bloques dividiendo en etapas el proyecto, para así tener una visión más general y poder saber qué prioridades tenemos que tener en cuenta para el correcto avance del proyecto.
   
--  Isidro Stabile: Esta semana estuve actualizando la bitacora a lo largo de Agosto.
+-  Isidro Stabile: Esta semana estuve actualizando la bitacora a lo largo de Agosto. Tambien estuve nuevamente contactando con Elemon, para ya acordar el listado de componentes que queremos tener bonificados, ademas de haber actualizado al dia de la fecha el tablero de Trello, con las tareas que hicimos. 
+
 
 ---
 
 ## 📅 2️⃣ Semana (Lunes 8 - Viernes 12)
 
 
--  Santiago Tejeda: Esta semana me encargue de pensar la estructura del proyecto, especificamente el armado a nivel de funcionamiento, llegué a la conclusión de que ibamos a necesitar unos resortes para generar un mecanismo de suspensión para que la baldosa pueda ser pisada y esta fuerza sea transmitida a los sensores piezoeléctricos.
-  
--  Isidro Stabile: Estuve nuevamente contactando con Elemon, para ya acordar el listado de componentes que queremos tener bonificados, ademas de haber actualizado al dia de la fecha el tablero de Trello, con las tareas que hicimos. 
+-  Santiago Tejeda: Esta semana me encargue de pensar la estructura del proyecto, especificamente el armado a nivel de funcionamiento, llegué a la conclusión de que ibamos a necesitar unos resortes para generar un mecanismo de suspensión para que la baldosa pueda ser pisada y esta fuerza sea transmitida a los sensores piezoeléctricos. 
 
 ---
 
