@@ -14,7 +14,7 @@
 
 -  Santiago Tejeda: Pensamos en utilizar una batería de plomo ácido ya que parecía la opción más clara para el almacenamiento. Entonces nos pusimos a buscar posibles sponsors para conseguir la batería ya que comprar una por cuenta propia iba a ser muy costoso. Investigando nos dimos cuenta que iba a necesitar un control de carga para proteger la batería y su vida útil. Teniendo en cuenta en el problema que nos metiamos optamos por elegir otro método de almacenamiento.
 
--  
+-  Siguiente pleperino:
 
 ---
 
