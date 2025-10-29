@@ -4,6 +4,7 @@
 
 
 -  Santiag Tejeda: Esta semana me encargué de armar un boceto a modo de guía en formato de diagrama en bloques dividiendo en etapas el proyecto, para así tener una visión más general y poder saber qué prioridades tenemos que tener en cuenta para el correcto avance del proyecto.
+-  Isidro Stabile: Esta semana estuve actualizando la bitacora a lo largo de Agosto.
 
 ---
 
