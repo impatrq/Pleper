@@ -5,7 +5,7 @@
 
 -  Santiago Tejeda: Esta semana me encargué de investigar qué método de almacenamiento iba a ser el más adecuado para almacenar los pulsos generados por la baldosa. Primero pensamos en utilizar baterías de litio pero no tenía mucho sentido utilizar una batería de litio para cargar otra batería de litio así que seguimos investigando.
 
--  Siguiente pleperino:
+-  Isidro Stabile: Esta semana hice mediciones y corte la placa de caucho que compramos para avanzar con la estrucutura.
 
 ---
 
