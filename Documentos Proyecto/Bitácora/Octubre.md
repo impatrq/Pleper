@@ -5,7 +5,10 @@
 
 -  Santiago Tejeda: esta semana me dediqué a corroborar por qué los pulsos de la baldosa no llegaban a cargar el banco de capacitores, dentro de todas las razones una de las que me cuestioné era la falta de un capacitor de filtrado en la salida de la placa reciticadora, conectada en parallo, siendo esta conectada en paralelo, pero luego al probarlo en la baldosa dejó de dar tensión a la salida. Lo que terminó en tener que desoldarlo y optar por otra solución.
 
--  Mauricio Blasco: Diseñe las publicaciones de Instagram de la palca rectificadora y el banco de capacitores, además de diseñar la portada triple de la publicación en Canva. También diseñe el modelo 3d de los topes en Autocad y los pase al formato para imprimirlos en el CURA. Soldé los componentes que adquirimos en la placa rectificadora anteriormente hecha
+-  Mauricio Blasco: Diseñe las publicaciones de Instagram de la palca rectificadora y el banco de capacitores, además de diseñar la portada triple de la publicación en Canva. También diseñe el modelo 3d de los topes en Autocad y los pase al formato para imprimirlos en el CURA. Soldé los componentes que adquirimos en la placa rectificadora anteriormente hecha.
+
+-  Victor Raul Broncano: Probe la continuidad del banco de capacitores, agujerie la placa y solde los componentes. Armamos la estractura de la baldosa, comprobando su resitencia y como reacciona con las personas caminando por encima.
+
 ---
 
 ## 📅 2️⃣ Semana (Lunes 6 - Viernes 10)
