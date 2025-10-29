@@ -38,7 +38,7 @@ Con la ayuda de los resortes y los pilares logré este objetivo: los resortes se
 
 -  Santiago Tejeda: Esta semana me encargué específicamente del armado de los piezoeléctricos en la baldosa, ubicándolos junto a unas tarimas de caucho que habían sobrado. Además, realicé el pegado de los mismos a la estructura y su correspondiente cableado de forma prolija con silicona, para luego conectarlos en las borneras de la placa rectificadora, cual diseñé en la misma semana.
 
--  
+-  Victor Raul Broncano: Compre, corte y lije la placa de cobre para despues limpiar la placa, imprimi las conexiones del banco de capacitores. Despues plancahe y puse la placa en acido.
 
 ---
 
