@@ -14,7 +14,9 @@
 ## 📅 2️⃣ Semana (Lunes 8 - Viernes 12)
 
 
--  Santiago Tejeda: Esta semana me encargue de pensar la estructura del proyecto, especificamente el armado a nivel de funcionamiento, llegué a la conclusión de que ibamos a necesitar unos resortes para generar un mecanismo de suspensión para que la baldosa pueda ser pisada y esta fuerza sea transmitida a los sensores piezoeléctricos. 
+-  Santiago Tejeda: Esta semana me encargue de pensar la estructura del proyecto, especificamente el armado a nivel de funcionamiento, llegué a la conclusión de que ibamos a necesitar unos resortes para generar un mecanismo de suspensión para que la baldosa pueda ser pisada y esta fuerza sea transmitida a los sensores piezoeléctricos.
+
+-  Victor Raul Broncano:  Perforar la base de madera de la estructura en donde ban a ir los colocados los sensores piezoelectricos. Y tambien pegamos las dos partes de la baldosa, la de madera con la de caucho, haciendo que coincidan las perforaciones de ambas partes.
 
 ---
 
@@ -25,8 +27,6 @@
 
 -  Santiago Tejeda: Esta semana continué pensando en cómo sería la estructura de la baldosa, llegando a la conclusión de que el sistema de suspensión debía incorporar un mecanismo que permitiera pisarla y generar movimiento, pero que al mismo tiempo pudiera volver a su posición original.
 Con la ayuda de los resortes y los pilares logré este objetivo: los resortes se ubicaron en las cuatro esquinas de la tapa superior de la baldosa, anclados mediante pilares impresos en 3D. Gracias a su forma, similar a un trompo, estos pilares permiten el movimiento controlado de la tapa. De esta manera, cuando se pisa la baldosa, los piezoeléctricos se comprimen, y al liberar la presión, los resortes devuelven la tapa hacia arriba, mientras la parte superior de los pilares actúa como tope para evitar que se desplace más de lo necesario.
-
--  
 
 ---
 
