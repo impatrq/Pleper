@@ -40,6 +40,8 @@
 
 -  Isidro Stabile: Esta semana perfeccione los contornos del caucho, y los agujeros para que puedan pasar mejor los topes impresos en 3D.
 
+- Victor Raul Broncano: Lijado de los costados de la baldosa de caucho y mediciones  en el caucho y la baldosa de madera para realizar realizar los agujeros donde van a pasar los topes
+
 ---
 
 🧾 **Observaciones generales del mes:**  
