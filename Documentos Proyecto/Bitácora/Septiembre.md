@@ -28,6 +28,8 @@
 -  Santiago Tejeda: Esta semana continué pensando en cómo sería la estructura de la baldosa, llegando a la conclusión de que el sistema de suspensión debía incorporar un mecanismo que permitiera pisarla y generar movimiento, pero que al mismo tiempo pudiera volver a su posición original.
 Con la ayuda de los resortes y los pilares logré este objetivo: los resortes se ubicaron en las cuatro esquinas de la tapa superior de la baldosa, anclados mediante pilares impresos en 3D. Gracias a su forma, similar a un trompo, estos pilares permiten el movimiento controlado de la tapa. De esta manera, cuando se pisa la baldosa, los piezoeléctricos se comprimen, y al liberar la presión, los resortes devuelven la tapa hacia arriba, mientras la parte superior de los pilares actúa como tope para evitar que se desplace más de lo necesario.
 
+- Victor Raul Borncano: Distribui y pegue los topes de caucho a la base de madera, y pegar los piezoelectricos arriba de los topes. Calculo de tamaño y colocacion de muelles para evitar que los resortes se desacomoden.
+
 ---
 
 ## 📅 4️⃣ Semana (Lunes 22 - Viernes 26)
