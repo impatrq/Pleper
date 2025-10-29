@@ -18,6 +18,8 @@
 
 -  Isidro Stabile: Me comunique con Elemon, siguiendo la conversación que teniamos, y contacte con otras empresas y distruibuidoras de electronica para conseguir componentes.
 
+-  Victor Raul Broncano: calculo y colocacion de piezoelectricos. Tambien relice mediciones y pruebas con los resortes cuando alguien se apoya en la baldosa.
+
 ---
 
 ## 📅 3️⃣ Semana (Lunes 18 - Viernes 22)
