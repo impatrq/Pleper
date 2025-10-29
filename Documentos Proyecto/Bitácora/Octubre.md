@@ -30,6 +30,9 @@
 -  Mauricio Blasco: Esta semana me encargue de medir la tensión tanto en la salida del circuito como en la salida de los grupos de piezoeléctricos, midiendo con uno, dos, tres y cuatro topes en un grupo y con un tope en cada esquina.
 
 -  Ignacio Garcia: Esta semana empece con el codigo del proyecto. El mismo se encargaria de mostrar el porcentaje de carga del capacitor en un display LCD (con i2c incluido) y, ademas, mediante el uso de una pagina web las personas podrian ver en sus dispositivos como se carga en tiempo real el capacitor. La idea de esta semana es probar la parte del codigo para el display con el lenguaje de programacion Python. Actualizacion: El codigo llego a funcionar pero, al usar una raspberry pi pico 2W, no leia bien la informacion que le llegaba y por lo tranto no se mostraba lo que buscaba en el display. La proxima semana continuo con el codigo, pero ahora con el uso de la extension de VScode, conocida como Platformio.
+
+- Victor Raul Broncano: Compra de segundo tacho de cemento de contacto, recorte y pegado de la alfombra que recubre la baldosa de caucho y la base de madera.  
+
 ---
 
 ## 📅 4️⃣ Semana (Lunes 20 - Viernes 24)
