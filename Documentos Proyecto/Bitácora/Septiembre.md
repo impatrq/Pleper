@@ -5,8 +5,9 @@
 
 -  Santiag Tejeda: Esta semana me encargué de armar un boceto a modo de guía en formato de diagrama en bloques dividiendo en etapas el proyecto, para así tener una visión más general y poder saber qué prioridades tenemos que tener en cuenta para el correcto avance del proyecto.
   
--  Isidro Stabile: Esta semana estuve actualizando la bitacora a lo largo de Agosto. Tambien estuve nuevamente contactando con Elemon, para ya acordar el listado de componentes que queremos tener bonificados, ademas de haber actualizado al dia de la fecha el tablero de Trello, con las tareas que hicimos. 
+-  Isidro Stabile: Esta semana estuve actualizando la bitacora a lo largo de Agosto. Tambien estuve nuevamente contactando con Elemon, para ya acordar el listado de componentes que queremos tener bonificados, ademas de haber actualizado al dia de la fecha el tablero de Trello, con las tareas que hicimos.
 
+-  Victor Raul Broncano: Obtencion del cemento de contacto para adherir los elementos de la estructura. Tambien nos comunicamos con Elemon, sobre el abono de componentes y elementos de trabajo.
 
 ---
 
