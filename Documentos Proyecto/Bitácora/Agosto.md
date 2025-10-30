@@ -32,6 +32,7 @@
 
 - Victor Raul Broncano: Medidas para la colocacion y corte de las bases de cauchos para los sensores piezoelectricos. Estos permiten que, cuando una persona pise la placa, los sensores lleguen a tener contacto con la baldosa.
 
+- Mauricio Blasco: Investigue que medidas de resortes requeriamos para el correcto funcionamiento del circuito, y contacte con Resortecnica en busca de ayuda con informacion sobre los resortes.
 ---
 
 ## 📅 4️⃣ Semana (Lunes 25 - Viernes 29)
