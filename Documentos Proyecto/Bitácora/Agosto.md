@@ -9,6 +9,7 @@
 
 -  Victor Raul Broncano: Medidas y recorte del caucho que va a ser la baldosa. Esta baldosa la recotamos a una medida de 42cm*42cm ya que va a ir junto a una madera de la misma medida.
 
+-  Maurcio Blasco: comienzo a diseñar un modelo 3D en autocad del diseño de la baldosa en el moemento, diseñando de la forma mas eficiente la estructura.
 ---
 
 ## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
@@ -19,7 +20,7 @@
 -  Isidro Stabile: Me comunique con Elemon, siguiendo la conversación que teniamos, y contacte con otras empresas y distruibuidoras de electronica para conseguir componentes.
 
 -  Victor Raul Broncano: calculo y colocacion de piezoelectricos. Tambien relice mediciones y pruebas con los resortes probando como se comporta con el peso de una persona. Estas mediciones las realizamos poniendo los cuatro resortes abajo de la madera que va a ser la baldosa.
-
+-  Mauricio Blasco: ternino de diseñar el modelo 3D de la baldosa en autocad, ademas de agregarle las texturas con el objetivo de hacerlo mas realista.
 ---
 
 ## 📅 3️⃣ Semana (Lunes 18 - Viernes 22)
@@ -31,6 +32,7 @@
 
 - Victor Raul Broncano: Medidas para la colocacion y corte de las bases de cauchos para los sensores piezoelectricos. Estos permiten que, cuando una persona pise la placa, los sensores lleguen a tener contacto con la baldosa.
 
+- Mauricio Blasco: Investigue que medidas de resortes requeriamos para el correcto funcionamiento del circuito, y contacte con Resortecnica en busca de ayuda con informacion sobre los resortes.
 ---
 
 ## 📅 4️⃣ Semana (Lunes 25 - Viernes 29)
@@ -41,7 +43,7 @@
 -  Isidro Stabile: Esta semana perfeccione los contornos del caucho, y los agujeros para que puedan pasar mejor los topes impresos en 3D.
 
 - Victor Raul Broncano: Lijado de los costados de la baldosa de caucho y de la baldosa de madera. Tambien realice mediciones para realizar las perforaciones en donde van a ir los topes en donde van a ir los resorte y mantiene las badosas alinenadas con la base de madera.
-
+-  Mauricio Blasco: Me encargue de ralizar mediciones sobre como altera a la trensión y a la corriente las diferentes superficies de los piezoelectricos. 
 ---
 
 🧾 **Observaciones generales del mes:**  
