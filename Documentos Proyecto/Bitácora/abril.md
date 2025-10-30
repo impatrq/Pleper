@@ -11,7 +11,7 @@
 ---
 
 ## 📅 3️⃣ Semana (Lunes 21 - Viernes 25)
-
+-  Mauricio Blasco: Esta semana me encargue de comunicar con la empresa fabricadora de stickers para poder recibir un descuento en la fabricación , y finalmente conseguir la impresión de estos.
 
 ---
 
