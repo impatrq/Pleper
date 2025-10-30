@@ -6,7 +6,7 @@
 ---
 
 ## 📅 2️⃣ Semana (Lunes 14 - Viernes 18)
-
+-  Mauricio Blasco: Esta semana me encargue de buscar diferentes proyectos que hayan trabajado también con la piezoelectricidad de una manera similar a la nuestra en busca de ayuda.
 
 ---
 
