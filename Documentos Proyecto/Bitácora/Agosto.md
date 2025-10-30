@@ -20,7 +20,7 @@
 -  Isidro Stabile: Me comunique con Elemon, siguiendo la conversación que teniamos, y contacte con otras empresas y distruibuidoras de electronica para conseguir componentes.
 
 -  Victor Raul Broncano: calculo y colocacion de piezoelectricos. Tambien relice mediciones y pruebas con los resortes probando como se comporta con el peso de una persona. Estas mediciones las realizamos poniendo los cuatro resortes abajo de la madera que va a ser la baldosa.
-
+-  Mauricio Blasco: ternino de diseñar el modelo 3D de la baldosa en autocad, ademas de agregarle las texturas con el objetivo de hacerlo mas realista.
 ---
 
 ## 📅 3️⃣ Semana (Lunes 18 - Viernes 22)
