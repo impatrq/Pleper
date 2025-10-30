@@ -9,6 +9,7 @@
 
 -  Victor Raul Broncano: Medidas y recorte del caucho que va a ser la baldosa. Esta baldosa la recotamos a una medida de 42cm*42cm ya que va a ir junto a una madera de la misma medida.
 
+-  Maurcio Blasco: comienzo a diseñar un modelo 3D en autocad del diseño de la baldosa en el moemento, diseñando de la forma mas eficiente la estructura.
 ---
 
 ## 📅 2️⃣ Semana (Lunes 11 - Viernes 15)
