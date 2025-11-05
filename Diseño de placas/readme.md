@@ -1,7 +1,6 @@
 # Carpeta: Diseño de Placas
 
-> Módulos electrónicos del proyecto **PLEPER 2025_721C**  
-> Diseños y pruebas de las placas que componen el sistema piezoeléctrico.
+> Módulos electrónicos del proyecto
 
 ---
 
@@ -25,7 +24,4 @@ En esta carpeta se encuentran los **diseños electrónicos** fundamentales del s
 - **KiCad** para diseño de PCBs.  
 - **PDFGear** para visualización e impresión.
 ---
-
-
-> 💬 _“Cada componente suma, pero juntos hacen posible la energía del movimiento.”_
 
