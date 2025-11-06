@@ -3,7 +3,9 @@
 
 # Proyecto PLEPER
 ## Placa de Energía Piezoeléctrica Renovable 
-<img src="Logo.png">
+<div align="center">
+  <img src="Imágenes Proyecto/Logo.png" alt="Logo Proyecto Pleper" width="200"/>
+  </div>
 
 | <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/internet.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /> | <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />|
 |------------|-------|-----------|
@@ -52,7 +54,8 @@
 
 ## Integrantes:
 <div align="center">
-
+  <img src="Imágenes Proyecto/Fotos grupales/DSC_0022.JPG" alt="Logo Proyecto Pleper"
+  </div>
 </div>
 
 ### Victoria Josefina Baza
