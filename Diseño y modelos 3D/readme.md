@@ -17,5 +17,4 @@ Aquí se desarrollan los **planos 2D y modelos 3D** del prototipo:
 ## Herramientas utilizadas
 - AutoCAD 2025  
 - FreeCAD (para pruebas de exportación STEP)
-- Ultimaker Cura
 
