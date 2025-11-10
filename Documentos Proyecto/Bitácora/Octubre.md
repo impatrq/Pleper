@@ -46,9 +46,11 @@
 
 - Victor Raul Broncano: Compra y lijado de grampas para mantener el fijo verticalmente el tubo de PVC. En este tubo van a pasar los cables que iran dirigido a la caja de placas. Tambien repare las conexiones desoldadas de los sensores piezoelectricos
 
+- Victoria Josefina Baza: Esta semana ayudé a medir el tiempo de los pulsos generados por los piezoeléctricos. También diseñe modelos 3D de los PCB de las placas que habíamos hecho; la placa de rectificación y la placa de filtrado para poder visualizarlas en FreeCAD, y mostrar una vista conceptual de las mismas.
 
+---
 
 ## 📅 5️⃣ Semana (Lunes 27 - Viernes 31)
 
  
--  Victoria Baza: Esta semana estuve trabajando en el Manual de Usuario, estuve recopilando la información necesaría para poder completarlo según los requisitos que se pedían. Me enfoqué en lo que corresponde a la instalación de la baldosa y su manipulación, ya que como tal no es necesario utilizar una aplicación para visualizar el funcionamiento de la baldosa. Terminé la documentación y la envié el Viernes 31. También estuve diseñando la baldosa en AutoCAD para tener una vista conceptual del diseño de esta, respetando las medidas originales para poder completar las documentaciones y utilizar las vistas de manera didáctica. Por eso saqué también las capturas de pantalla de la baldosa para poder agregarlas a la documentación.
+-  Victoria Josefina Baza: Esta semana estuve trabajando en el Manual de Usuario, estuve recopilando la información necesaría para poder completarlo según los requisitos que se pedían. Me enfoqué en lo que corresponde a la instalación de la baldosa y su manipulación, ya que como tal no es necesario utilizar una aplicación para visualizar el funcionamiento de la baldosa. Terminé la documentación y la envié el Viernes 31. También estuve diseñando la baldosa en AutoCAD para tener una vista conceptual del diseño de esta, respetando las medidas originales para poder completar las documentaciones y utilizar las vistas de manera didáctica. Por eso saqué también las capturas de pantalla de la baldosa para poder agregarlas a la documentación.
