@@ -52,5 +52,5 @@
 
 ## 📅 5️⃣ Semana (Lunes 27 - Viernes 31)
 
- 
+-  Mauricio Blasco: Me encargue del pensado, diseño, edicion y guionado del proyecto, ademas de diseñar el STL para poder imprimir los 16 topes necesarios, despues los imprimios en el colegio. Me contacte con Tasker Consultores para poder obtener su ayuda para obtener un cartel de emergencia que requeriamos. Me encargue tambien de la grabacion de videos que utilizariamos posteriormente para el video.
 -  Victoria Josefina Baza: Esta semana estuve trabajando en el Manual de Usuario, estuve recopilando la información necesaría para poder completarlo según los requisitos que se pedían. Me enfoqué en lo que corresponde a la instalación de la baldosa y su manipulación, ya que como tal no es necesario utilizar una aplicación para visualizar el funcionamiento de la baldosa. Terminé la documentación y la envié el Viernes 31. También estuve diseñando la baldosa en AutoCAD para tener una vista conceptual del diseño de esta, respetando las medidas originales para poder completar las documentaciones y utilizar las vistas de manera didáctica. Por eso saqué también las capturas de pantalla de la baldosa para poder agregarlas a la documentación.
