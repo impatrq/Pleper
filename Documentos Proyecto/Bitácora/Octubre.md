@@ -38,7 +38,7 @@
 ## 📅 4️⃣ Semana (Lunes 20 - Viernes 24)
 
  
--  Santiago Tejeda: esta semana me dedique a investigar sobre el armado del circuito de retroalimentación para solucionar el problema de que los pulsos de la baldosa no logran ser captados por el banco de capacitores, ya que al tener una alta capacitancia y el tener un pulso de tan corto tiempo (20ms) los capacitores no logran captarlo. La solución que encontré fue una implementación de un circuito de bombeo de carga capacitiva que utiliza un capacitor pre-cargado como colchón de voltaje para maximizar la eficiencia en la captura de pulos piezoeléctricos. Logré armar el prototipo del circuito que, lentamente, carga el capacitor de 470 uF el cual proporciona la base de voltaje que posteriormente se le van a sumar el de los pulsos y así cargar el capacitor de 10.000uF, el cual daría por finalizado la etapa de carga de la baldosa. 
+-  Santiago Tejeda: esta semana me dedique a investigar sobre el armado del circuito de retroalimentación para solucionar el problema de que los pulsos de la baldosa no logran ser captados por el banco de capacitores, ya que al tener una alta capacitancia y el tener un pulso de tan corto tiempo (20ms) los capacitores no logran captarlo. La solución que encontré fue una implementación de un circuito de bombeo de carga capacitiva que utiliza un capacitor pre-cargado como colchón de voltaje para maximizar la eficiencia en la captura de pulos piezoeléctricos. Logré armar el prototipo del circuito que, lentamente, carga el capacitor de 470 uF el cual proporciona la base de voltaje que posteriormente se le van a sumar el de los pulsos y así cargar el capacitor de 10.000uF, el cual daría por finalizado la etapa de carga de la baldosa. (Actualización) La etapa no terminó funcionano por falta de potencia de los pulsos, por lo que nunca iban a llegar a cargar el capacitor de 10.000 uF, por lo que decidimos en tratar de armar otra baldosa cambiando la configuración del cableado, en vez de todos en paralelo para mayor corriente, lo cambiamos a todos en serie para sumar pico de voltaje útil.
 
 -  Mauricio Blasco: Esta semana me encargue de medir el tiempo de los pulsos generado por los piezoeléctricos con el objetivo de saber si el problema de la carga de los capacitores podría ser por la corta duración de estos, lo cual terminamos confirmando. También me encargue de comprar algunos componentes que requeríamos para seguir avanzando, los cuales eran 2 resistencias de 4,7 Mohm y dos tiras de 40 pines. Tambien medí la corriente en la salida del circuito tanto sin topes como con uno, dos, tres y cuatro topes. Por ultimo actualize con algunas mejoras el banner del proyecto para luego enviarlo.
 
@@ -46,8 +46,11 @@
 
 - Victor Raul Broncano: Compra y lijado de grampas para mantener el fijo verticalmente el tubo de PVC. En este tubo van a pasar los cables que iran dirigido a la caja de placas. Tambien repare las conexiones desoldadas de los sensores piezoelectricos
 
+- Victoria Josefina Baza: Esta semana ayudé a medir el tiempo de los pulsos generados por los piezoeléctricos. También diseñe modelos 3D de los PCB de las placas que habíamos hecho; la placa de rectificación y la placa de filtrado para poder visualizarlas en FreeCAD, y mostrar una vista conceptual de las mismas.
+
 ---
 
-🧾 **Observaciones generales del mes:**  
--  
--  
+## 📅 5️⃣ Semana (Lunes 27 - Viernes 31)
+
+ 
+-  Victoria Josefina Baza: Esta semana estuve trabajando en el Manual de Usuario, estuve recopilando la información necesaría para poder completarlo según los requisitos que se pedían. Me enfoqué en lo que corresponde a la instalación de la baldosa y su manipulación, ya que como tal no es necesario utilizar una aplicación para visualizar el funcionamiento de la baldosa. Terminé la documentación y la envié el Viernes 31. También estuve diseñando la baldosa en AutoCAD para tener una vista conceptual del diseño de esta, respetando las medidas originales para poder completar las documentaciones y utilizar las vistas de manera didáctica. Por eso saqué también las capturas de pantalla de la baldosa para poder agregarlas a la documentación.
