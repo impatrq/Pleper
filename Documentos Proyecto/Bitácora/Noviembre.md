@@ -5,7 +5,7 @@
 ---
 
 ## 📅 2️⃣ Semana (Lunes 10 - Viernes 14)
-
+-  Mauricio Blasco: Diseñe el folleto que entregaremos en la muestra, tambien diseñe y contacte una empresa para poder elaborar las remeras del proyecto. Me encargue de la impresion de los folletos y de las tarjetas que entregaremos el dia de la muestra. Me comunique con autogomas bernal para poder obtener nuevamente su apoyo obteniendo una alfombra de caucho de 70x140.
 
 
 ---
