@@ -1,0 +1,53 @@
+Info: Procesando el símbolo 'A1:Module:RaspberryPi_Pico_W_SMD_HandSolder'.
+Info: Procesando el símbolo 'J3:Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J1:Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical'.
+Info: Procesando el símbolo 'J4:Aura_de_modulo:TP4056-Module'.
+Info: Número de avisos: 3, errores: 0.
+Info: Procesando el símbolo 'J2:Connector:FanPinHeader_1x04_P2.54mm_Vertical'.
+Agregar red V+ J3.
+Agregar red unconnected-(A1-AGND-Pad33).
+A1 pin 33 reconectado de Earth a unconnected-(A1-AGND-Pad33).
+Agregar red VBUS.
+Agregar red unconnected-(A1-GPIO27_ADC1-Pad32).
+A1 pin 32 reconectado de ADC1 a unconnected-(A1-GPIO27_ADC1-Pad32).
+Agregar red BAT-.
+J1 pin 1 reconectado de J1 a BAT-.
+Agregar red BAT+.
+J1 pin 2 reconectado de Earth a BAT+.
+Agregar red R2.
+J3 pin 2 reconectado de Earth a R2.
+Agregar red R1.
+J3 pin 1 reconectado de J3 a R1.
+Agregado J4 (huella 'Aura_de_modulo:TP4056-Module').
+Indicador de referencia cambiado de REF** a J4.
+Valor J4 cambiado de TP4056-Module a Conn_01x06_Pin.
+A1 pin 40 reconectado de unconnected-(A1-VBUS-Pad40) a VBUS.
+Actualizar campos J4.
+Se actualizó el nombre de la hoja J4 a '/'.
+Se actualizó el archivo de hoja J4 a 'Raspberry.kicad_sch'.
+Se actualizaron los filtros de huella de J4 a 'Connector*:*_1x??_*'.
+J4 pin 3 conectado a VBUS.
+Agregar red GND.
+J4 pin 4 conectado a GND.
+J4 pin 6 conectado a BAT-.
+J4 pin 5 conectado a BAT+.
+Agregar red GND J3.
+J4 pin 2 conectado a GND J3.
+J4 pin 1 conectado a V+ J3.
+Indicador de referencia cambiado de R3 a R1.
+Valor R1 cambiado de 30K a 22K.
+R1 pin 1 reconectado de J3 a R1.
+Asociación de símbolos J4 actualizada de  a /ddb417c6-f540-40bd-9631-2865cb7b8737.
+Indicador de referencia cambiado de R4 a R2.
+Red no utilizada J3 eliminada.
+Red no utilizada unconnected-(A1-VBUS-Pad40) eliminada.
+
+
+Aviso: No se encontró red para el componente A1 pad D2 (no hay pin D2 en el símbolo).
+Aviso: No se encontró red para el componente A1 pad D3 (no hay pin D3 en el símbolo).
+Aviso: No se encontró red para el componente A1 pad D1 (no hay pin D1 en el símbolo).
+
+
+Info: Número de avisos: 3, errores: 0.
